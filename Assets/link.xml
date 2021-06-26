@@ -1,0 +1,9 @@
+<linker>
+    <assembly fullname="GCVoiceChat">
+        <type fullname="gamingCloud.*" preserve="all"/>
+    </assembly>
+    <assembly fullname="GCEncryption">
+        <type fullname="gamingCloud.*" preserve="all"/>
+    </assembly>
+</linker>
+
